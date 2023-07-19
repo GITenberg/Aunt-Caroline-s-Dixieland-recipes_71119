@@ -1,0 +1,29 @@
+_repo: Aunt-Caroline-s-Dixieland-recipes_71119
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: McKinney, Emma
+    gutenberg_agent_id: '56081'
+    url: http://www.gutenberg.org/2009/agents/56081
+  - agent_name: McKinney, William
+    gutenberg_agent_id: '56082'
+    url: http://www.gutenberg.org/2009/agents/56082
+description: ''
+gutenberg_issued: '2023-07-05'
+identifiers:
+  gutenberg: '71119'
+language: en
+pgterms:marc904: https://archive.org/details/auntcarolinesdix00mckirich/page/n7/mode/2up
+pgterms:marc905: 20221027163105mckinney
+pgterms:marc906: '1922'
+pgterms:marc907: us
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bLaird & Lee, Inc., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Aunt Caroline's Dixieland recipes
+url: http://www.gutenberg.org/ebooks/71119
