@@ -1,5 +1,8 @@
 _repo: Aunt-Caroline-s-Dixieland-recipes_71119
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71119-h/images/cover.jpg
 creator:
   authors:
   - agent_name: McKinney, Emma
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56082'
     url: http://www.gutenberg.org/2009/agents/56082
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71119#Aunt-Caroline-s-Dixieland-recipes
 gutenberg_issued: '2023-07-05'
 identifiers:
   gutenberg: '71119'
